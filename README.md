@@ -24,7 +24,7 @@
 
 # 📖 Enumerable <a name="about-project"></a>
 
-> Insert project description
+In Ruby, we call an object enumerable when it describes a set of items and a method to loop over each of them. In this project we created an enumerable from scratch with the all? any? and filter methods.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -128,7 +128,7 @@ I would like to thank the Microverse program!
 
 - **What is an enumerable?**
 
-  - Insert enumerable explanation
+  - In Ruby, we call an object enumerable when it describes a set of items and a method to loop over each of them.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
