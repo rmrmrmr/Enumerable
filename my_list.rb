@@ -12,7 +12,6 @@ class MyList
   def each
     yield @list
   end
-
 end
 
 list = MyList.new(1, 2, 3, 4)
